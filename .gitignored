@@ -1,0 +1,12 @@
+# Python cache fájlok
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtuális környezet
+venv/
+
+# Egyéb fölösleges fájlok
+.env
+.DS_Store
